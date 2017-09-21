@@ -1,0 +1,2 @@
+class TipoDano < ApplicationRecord
+end

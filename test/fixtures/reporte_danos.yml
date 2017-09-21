@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tipo_dano: one
+  ciudad: one
+  municipio: one
+  calle: MyString
+  numero_exterior: MyString
+  codigo_postal: 1
+  entre_calles: MyString
+  personas_heridas_fallecidas: 1
+  personas_afectadas: 1
+  apoyo_necesario: MyText
+  informacion_contacto: MyText
+  informacion_extra: MyText
+
+two:
+  tipo_dano: two
+  ciudad: two
+  municipio: two
+  calle: MyString
+  numero_exterior: MyString
+  codigo_postal: 1
+  entre_calles: MyString
+  personas_heridas_fallecidas: 1
+  personas_afectadas: 1
+  apoyo_necesario: MyText
+  informacion_contacto: MyText
+  informacion_extra: MyText
