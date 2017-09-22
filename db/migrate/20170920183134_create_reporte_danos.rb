@@ -7,7 +7,7 @@ class CreateReporteDanos < ActiveRecord::Migration[5.1]
       t.string :nombre_lugar
       t.string :descripcion
       t.string :calle
-      t.string :numero_exterior
+      t.integer :numero_exterior
       t.integer :codigo_postal
       t.string :entre_calles
       t.integer :personas_heridas_fallecidas
